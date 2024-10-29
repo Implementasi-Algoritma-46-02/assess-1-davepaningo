@@ -10,11 +10,12 @@ public class Soal02 {
 		double ipk = scanner.nextDouble();
 		System.out.print("");
 		int eprt = scanner.nextInt();
+		System.out.print("");
 		String hak = scanner.nextLine();
+		System.out.print("");
 		String lomba = scanner.nextLine();
 
 		boolean cumlaude;
-
 		if (hak.equals("ada")) {
 			System.out.println("Cumlaude");;
 			} else if (lomba.equals("ada")) {
@@ -31,4 +32,16 @@ public class Soal02 {
 			}
 }
 }
+	
+		
+
+
+
+
+
+
+
+
+
+
 
