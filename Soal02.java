@@ -7,13 +7,10 @@ public class Soal02 {
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("");
 		double waktu = scanner.nextDouble();
-		System.out.print("");
 		double ipk = scanner.nextDouble();
 		System.out.print("");
 		int eprt = scanner.nextInt();
-		System.out.print("");
 		String hak = scanner.nextLine();
-		System.out.print("");
 		String lomba = scanner.nextLine();
 
 		boolean cumlaude;
