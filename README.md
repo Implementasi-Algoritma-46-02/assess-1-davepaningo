@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Dave Andrew Paningo
 
-NIM : 
+NIM : 607062400004
 
 ## Instruksi
 
